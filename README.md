@@ -1,4 +1,4 @@
-# Quiz & Text Analysis Project
+#  Text Analysis Project
 
 A Python program to analyze text input. This project allows users analyze sentences for educational purposes.
 
